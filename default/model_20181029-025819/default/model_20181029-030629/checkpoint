@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/carlos/Proyectos/arcbot_api/default/model_20181029-025819/default/model_20181029-030629/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/carlos/Proyectos/arcbot_api/default/model_20181029-025819/default/model_20181029-030629/intent_classifier_tensorflow_embedding.ckpt"

@@ -1,0 +1,41 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "saludar",
+        "text": "hola"
+      },
+      {
+        "intent": "saludar",
+        "text": "que ondas"
+      },
+      {
+        "intent": "saludar",
+        "text": "hey"
+      },
+      {
+        "intent": "saludar",
+        "text": "hey que ondas!"
+      },
+      {
+        "intent": "despedirse",
+        "text": "adios"
+      },
+      {
+        "intent": "despedirse",
+        "text": "bye bye"
+      },
+      {
+        "intent": "despedirse",
+        "text": "va pues"
+      },
+      {
+        "intent": "despedirse",
+        "text": "salud"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
